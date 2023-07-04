@@ -6,6 +6,8 @@ function uuid() {
     });
 }
 
+ // WORKING WITH HTML
+ 
 let todoInput = document.querySelector(".input");
 let addTodoButton = document.querySelector(".button");
 let showTodos = document.querySelector(".todos-container");
